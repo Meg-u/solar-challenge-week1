@@ -4,7 +4,7 @@
 
 ```bash
 # Clone the repo
-git clone https://github.com/<your-username>/solar-challenge-week1.git
+git clone https://github.com/Meg-u>/solar-challenge-week1.git
 cd solar-challenge-week1
 
 # Create and activate virtual environment
