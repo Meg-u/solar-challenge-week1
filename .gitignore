@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 ﻿data/
 *.csv
 .ipynb_checkpoints/
 venv/
+=======
+﻿venv/data/
+*.csv
+.ipynb_checkpoints/
+>>>>>>> cd679b35e811511444c2e9f29073cdc9bae07e1c
